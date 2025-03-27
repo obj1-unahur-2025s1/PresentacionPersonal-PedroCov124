@@ -4,10 +4,9 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
-
+- Mi nombre es: Covetta Pedro
+- Vivo en Ituzaingó
+- Tengo 21 años
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+  Me interesan las computadores y la tecnologia en general junto con las ciencias duras. Iba a estudiar Física pero no me interesaba la salida laboral disponible.
