@@ -10,3 +10,4 @@
 
 ### Otra Información
   Me interesan las computadores y la tecnologia en general junto con las ciencias duras. Iba a estudiar Física pero no me interesaba la salida laboral disponible.
+  Es mi tercer cuatrimetre en la tecnicatura en programación y por ahora me va bien.
